@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Solemne3", "Solemne3\", "{7D2A3EAF-AAD4-4E48-98CC-87E8D1C6C951}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50488"
+		Debug.AspNetCompiler.PhysicalPath = "Solemne3\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50488\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50488"
+		Release.AspNetCompiler.PhysicalPath = "Solemne3\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50488\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50488"
+		SlnRelativePath = "Solemne3\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteWeb", "ClienteWeb\ClienteWeb.csproj", "{1081CB72-F77F-4F4B-A46B-6BB0E5AFF804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2A3EAF-AAD4-4E48-98CC-87E8D1C6C951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2A3EAF-AAD4-4E48-98CC-87E8D1C6C951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2A3EAF-AAD4-4E48-98CC-87E8D1C6C951}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2A3EAF-AAD4-4E48-98CC-87E8D1C6C951}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{1081CB72-F77F-4F4B-A46B-6BB0E5AFF804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1081CB72-F77F-4F4B-A46B-6BB0E5AFF804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1081CB72-F77F-4F4B-A46B-6BB0E5AFF804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1081CB72-F77F-4F4B-A46B-6BB0E5AFF804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF845EE2-81AD-41B9-9BB3-30CC279B10E8}
+	EndGlobalSection
+EndGlobal
